@@ -23,7 +23,7 @@ const khodamList = {
     "A-E": ["eyang pisang goreng", "nyaikeripik singkong", "kang cimol", "mbah martabak manis", "raja pecel lele", "pangeran otak-otak", "dewa seblak"],
     "F-J": ["mbah batgor", "ki telur asin", "sang gurita bakso", "putri roti bakar", "ki cilung perkasa"],
     "K-O": ["nyai bubur kacang ijo", "pangeran susu murni", " putri mi rebus", "kang cireng", "dewi kacang polong", "eyang es doger"],
-    "P-T": ["nyai kolak pisang", "ki kerak telor", "bah geprek", "raja cilok", "kadal wungu", "jin serius", "nyi jagung bakar"],
+    "P-T": ["nyai kolak pisang", "ki kerak telor", "mbah geprek", "raja cilok", "kadal wungu", "jin serius", "nyi jagung bakar"],
     "U-Z": ["ratu kunyit", "si raja emping", "dewa bubur ayam", "putri kelepon", "nyai cendol", "mbah kerupuk udang", "jin serius amat"]
 };
 
